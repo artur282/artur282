@@ -80,6 +80,8 @@
   </a>
 </p>
 
+---
+
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
@@ -94,4 +96,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur282&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados por artur282" />
 </div>
 
-</p>
+---
+
+## 📈 Mis Métricas de GitHub
+
+<div align="center">
+  <img src="https://github.com/Artur282/Artur282/blob/main/metrics.svg" alt="Métricas de Artur282" />
+  </div>
