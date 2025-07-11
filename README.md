@@ -98,8 +98,4 @@
 
 ---
 
-## 📈 Mis Métricas de GitHub
 
-<div align="center">
-  <img src="https://github.com/Artur282/Artur282/blob/main/metrics.svg" alt="Métricas de Artur282" />
-  </div>
