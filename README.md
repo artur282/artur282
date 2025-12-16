@@ -38,7 +38,7 @@ Soy un ingeniero apasionado por la arquitectura de software robusta y la eficien
 ### Automatización, Datos & IA
 <p>
   <a href="https://n8n.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/n8n/n8n-original.svg" alt="n8n" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/pheralb/svgl/42f8f2de1987d83a7c6ad9d5dc2576377aa5110b/static/library/n8n-wordmark-light.svg" alt="n8n" width="45" height="45"/>
   </a>
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
