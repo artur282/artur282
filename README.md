@@ -91,19 +91,4 @@ Soy un ingeniero apasionado por la arquitectura de software robusta y la eficien
 </p>
 
 ---
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=artur282&show_icons=true&theme=radical&count_private=true&locale=es" alt="Estadísticas de GitHub de artur282" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artur282&theme=radical&locale=es" alt="Estadísticas de racha de artur282" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur282&layout=compact&theme=radical&locale=es" alt="Lenguajes más usados por artur282" />
-</div>
-
 ---
