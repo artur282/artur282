@@ -81,7 +81,7 @@ Construyo **sistemas escalables y listos para producción** usando Python. Mi ex
       <br/><sub>Diseño y ejecución de pipelines ETL complejos para migración de datos entre sistemas legacy y ERPs modernos. SQL avanzado, validación y transformación a escala.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/automation.png" width="40"/>
+      <img src="https://img.icons8.com/color/48/automatic.png" width="40"/>
       <br/><b>Automatización</b>
       <br/><sub>Desarrollo de scripts de automatización, soluciones de web scraping y orquestación de flujos con n8n. Transformando procesos manuales repetitivos en pipelines automatizados confiables.</sub>
     </td>
