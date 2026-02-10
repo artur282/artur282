@@ -1,0 +1,41 @@
+# ═══════════════════════════════════════════════════════════════════
+# Workflow: Genera la animación de serpiente con las contribuciones
+# Se ejecuta diariamente y al hacer push, generando SVGs en la
+# rama 'output' que el README referencia directamente.
+# ═══════════════════════════════════════════════════════════════════
+
+name: Generate Snake Animation
+
+on:
+  # Ejecutar diariamente a medianoche UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Permitir ejecución manual desde la pestaña Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      # Genera el SVG de la serpiente con las contribuciones
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Sube los SVGs generados a la rama 'output'
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
