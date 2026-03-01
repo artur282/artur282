@@ -11,12 +11,13 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=45&lines=Building+scalable+backends+with+Python+%F0%9F%90%8D;AI%2FML+solutions+%7C+GenAI+integration+%F0%9F%A4%96;Data+engineering+%26+complex+migrations+%F0%9F%97%84%EF%B8%8F;Automation+that+creates+real+impact+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Badges informativos de estado -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=artur282&label=Profile+Views&color=6C63FF&style=for-the-badge)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=artur282&label=Profile+Views&color=6C63FF&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 
   <br/>
 
@@ -30,7 +31,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-> *Ingeniero de Software especializado en arquitectura backend robusta, integración de IA/ML, orquestación de datos y automatización inteligente.*
+> _Ingeniero de Software especializado en arquitectura backend robusta, integración de IA/ML, orquestación de datos y automatización inteligente._
 
 Construyo **sistemas escalables y listos para producción** usando Python. Mi experiencia va desde diseñar arquitecturas backend complejas e implementar soluciones con IA, hasta liderar pipelines de migración de datos y automatizar flujos empresariales. Escribo código limpio, bien documentado y mantenible — porque el código de producción se lee mucho más de lo que se escribe.
 
@@ -39,6 +40,7 @@ Construyo **sistemas escalables y listos para producción** usando Python. Mi ex
     <td width="50%">
 
 ### 🎯 Enfoque actual
+
 - 🏗️ Diseñando **arquitecturas backend escalables** con Django y FastAPI
 - 🤖 Construyendo soluciones con **GenAI, servidores MCP y LangChain**
 - 🔄 Automatizando flujos empresariales con **n8n y scripts Python**
@@ -49,6 +51,7 @@ Construyo **sistemas escalables y listos para producción** usando Python. Mi ex
 <td width="50%">
 
 ### 💡 Principios de ingeniería
+
 - 📐 **Clean Code y SOLID** — no solo prácticas, una filosofía
 - 🧪 Mentalidad **orientada a testing** con cobertura automatizada
 - 🔁 **CI/CD** y despliegues reproducibles
@@ -87,6 +90,23 @@ Construyo **sistemas escalables y listos para producción** usando Python. Mi ex
     </td>
   </tr>
 </table>
+
+<br/>
+
+## 🚀 Proyectos Destacados
+
+### [Portafolio de Ingeniería de Software](https://github.com/artur282/Portafolio)
+
+
+
+Construyendo un portafolio progresivo que demuestre dominio completo en **ingeniería backend, IA/GenAI, ingeniería de datos, DevOps e integración full-stack**. Cada proyecto es independiente, funcional y desplegable — diseñado para resolver problemas reales, no solo ejercicios académicos.
+
+<p>
+
+  <img src="https://img.shields.io/badge/Proyectos-26-green?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/Stack-Python_|_Rust_|_IA_|_Mobile_|_DevOps-purple?style=for-the-badge"/>
+</p>
 
 <br/>
 
@@ -177,13 +197,13 @@ Construyo **sistemas escalables y listos para producción** usando Python. Mi ex
 
 <div align="center">
 
-  *Abierto a nuevas oportunidades profesionales y colaboraciones interesantes.*
+_Abierto a nuevas oportunidades profesionales y colaboraciones interesantes._
 
-  <br/><br/>
+<br/><br/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-c-47a498220 )
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisarturocruz57@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur282)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-c-47a498220)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisarturocruz57@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur282)
 
 </div>
 
