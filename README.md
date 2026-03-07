@@ -27,129 +27,49 @@
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=%24+python+build_backend.py+--scale+production+%F0%9F%90%8D;%24+deploy+ai_pipeline+--model+genai+--status+active+%F0%9F%A4%96;%24+migrate+--source+legacy+--target+modern+--validate+%F0%9F%97%84%EF%B8%8F;%24+automate+workflows+--engine+n8n+--impact+real+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+  <br/><br/>
 
-<!-- // STATUS_BADGES :: SYS_INFO -->
-![](https://img.shields.io/badge/STATUS-ONLINE-0AFFEF?style=flat-square&labelColor=0B0D0F)
-![](https://img.shields.io/badge/LOCATION-REMOTE-0AFFEF?style=flat-square&labelColor=0B0D0F)
-![](https://img.shields.io/badge/STACK-PYTHON-0AFFEF?style=flat-square&labelColor=0B0D0F&logo=python&logoColor=0AFFEF)
-![Profile Views](https://komarev.com/ghpvc/?username=artur282&label=VIEWS&color=0AFFEF&style=flat-square&labelColor=0B0D0F)
+  <!-- Badges informativos de estado -->
+  ![Profile Views](https://komarev.com/ghpvc/?username=artur282&label=Profile+Views&color=6C63FF&style=for-the-badge)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+  [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+
+  <br/>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  // SECTION: SYSTEM_PROFILE                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    🇪🇸 VERSIÓN EN ESPAÑOL                        ║ -->
+<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
+## 🧑‍💻 Sobre mí
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  > SYSTEM_PROFILE                                     [SYS.01]  │
-└──────────────────────────────────────────────────────────────────┘
-```
+> *Ingeniero de Software especializado en arquitectura backend robusta, integración de IA/ML, orquestación de datos y automatización inteligente.*
 
-</div>
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# ═══════════════════════════════════════════════════════
-# PROFILE: Luis Cruz // @artur282
-# BUILD:   v4.2.0-stable
-# STATUS:  ACTIVE | SEEKING NEW CHALLENGES
-# ═══════════════════════════════════════════════════════
-
-class SoftwareEngineer:
-    """Backend & AI Engineer | Python Specialist"""
-
-    def __init__(self):
-        self.name       = "Luis Cruz"
-        self.alias      = "artur282"
-        self.role       = "Backend & AI Engineer"
-        self.language   = ["es_ES", "en_US"]
-
-    @property
-    def stack(self) -> dict:
-        return {
-            "backend":      ["Python", "Django", "FastAPI", "DRF", "Node.js"],
-            "ai_ml":        ["MCP Servers", "LangChain", "GenAI", "Prompt Eng."],
-            "data":         ["PostgreSQL", "SQL Server", "Pandas", "ETL Pipelines"],
-            "devops":       ["Docker", "Linux", "GitHub Actions", "AWS", "Bash"],
-            "automation":   ["n8n", "Selenium", "Web Scraping", "Custom Scripts"],
-            "frontend":     ["React", "React Native", "TypeScript", "TailwindCSS"],
-        }
-
-    @property
-    def principles(self) -> list:
-        return [
-            "Clean Code & SOLID — not just practices, a philosophy",
-            "Testing-first mindset with automated coverage",
-            "CI/CD & reproducible deployments",
-            "Well-documented APIs and systems",
-            "Solutions that SCALE in production",
-        ]
-
-    def daily(self) -> str:
-        return "Building scalable backends, integrating AI, automating everything"
-
-me = SoftwareEngineer()
-```
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  // SECTION: CURRENT_OPERATIONS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  > CURRENT_OPERATIONS                                 [SYS.02]  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
+Construyo **sistemas escalables y listos para producción** usando Python. Mi experiencia va desde diseñar arquitecturas backend complejas e implementar soluciones con IA, hasta liderar pipelines de migración de datos y automatizar flujos empresariales. Escribo código limpio, bien documentado y mantenible — porque el código de producción se lee mucho más de lo que se escribe.
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%">
 
-```
-// ACTIVE_TASKS.log
-// Last updated: $(date +%Y-%m-%d)
-```
-
-![](https://img.shields.io/badge/►_Scalable_backend_architectures-Django_|_FastAPI-0AFFEF?style=flat-square&labelColor=12151A)
-
-![](https://img.shields.io/badge/►_GenAI_solutions-MCP_Servers_|_LangChain-0AFFEF?style=flat-square&labelColor=12151A)
-
-![](https://img.shields.io/badge/►_Business_automation-n8n_|_Python_Scripts-0AFFEF?style=flat-square&labelColor=12151A)
-
-![](https://img.shields.io/badge/►_Complex_data_migrations-ETL_Pipelines-0AFFEF?style=flat-square&labelColor=12151A)
-
-![](https://img.shields.io/badge/►_Data_analysis_&_prototyping-Pandas_|_Jupyter-0AFFEF?style=flat-square&labelColor=12151A)
+### 🎯 Enfoque actual
+- 🏗️ Diseñando **arquitecturas backend escalables** con Django y FastAPI
+- 🤖 Construyendo soluciones con **GenAI, servidores MCP y LangChain**
+- 🔄 Automatizando flujos empresariales con **n8n y scripts Python**
+- 🗄️ Liderando **migraciones de datos complejas** y pipelines ETL
+- 📊 Análisis de datos y prototipado con **Pandas y Jupyter**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
-```
-// ENGINEERING_PRINCIPLES.conf
-// Priority: CRITICAL
-```
-
-![](https://img.shields.io/badge/[01]_Clean_Code_&_SOLID-philosophy-FFB000?style=flat-square&labelColor=12151A)
-
-![](https://img.shields.io/badge/[02]_Testing--first_mindset-automated-39FF14?style=flat-square&labelColor=12151A)
-
-![](https://img.shields.io/badge/[03]_CI/CD_pipelines-reproducible-BF40FF?style=flat-square&labelColor=12151A)
-
-![](https://img.shields.io/badge/[04]_Well--documented_APIs-always-0AFFEF?style=flat-square&labelColor=12151A)
-
-![](https://img.shields.io/badge/[05]_Solutions_that_SCALE-production-FF2E63?style=flat-square&labelColor=12151A)
+### 💡 Principios de ingeniería
+- 📐 **Clean Code y SOLID** — no solo prácticas, una filosofía
+- 🧪 Mentalidad **orientada a testing** con cobertura automatizada
+- 🔁 **CI/CD** y despliegues reproducibles
+- 📖 APIs y sistemas **bien documentados**
+- 🚀 Enfoque en **soluciones que escalan** en producción
 
 </td>
 </tr>
@@ -235,46 +155,6 @@ me = SoftwareEngineer()
 </td>
 </tr>
 </table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  // SECTION: FEATURED_PROJECT                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  > FEATURED_PROJECT                                   [SYS.04]  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<div align="center">
-
-### [`> cd ~/Portafolio && cat README.md`](https://github.com/artur282/Portafolio)
-
-</div>
-
-> ```
-> // PROJECT: Software Engineering Portfolio
-> // STATUS: IN_PROGRESS | BUILDING
-> // DESC:   Progressive portfolio demonstrating full mastery in
-> //         backend engineering, AI/GenAI, data engineering,
-> //         DevOps and full-stack integration.
-> //         Each project is independent, functional and deployable
-> //         — designed to solve real problems, not academic exercises.
-> ```
-
-<p align="center">
-
-![](https://img.shields.io/badge/PROJECTS-26-0AFFEF?style=for-the-badge&labelColor=0B0D0F)
-![](https://img.shields.io/badge/STACK-Python_|_Rust_|_AI_|_Mobile_|_DevOps-0AFFEF?style=for-the-badge&labelColor=0B0D0F)
-![](https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=for-the-badge&labelColor=0B0D0F)
-
-</p>
 
 <br/>
 
@@ -390,64 +270,13 @@ me = SoftwareEngineer()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=artur282&show_icons=true&hide_border=true&bg_color=0B0D0F&title_color=0AFFEF&text_color=C8CCD4&icon_color=0AFFEF&ring_color=0AFFEF&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur282&layout=compact&hide_border=true&bg_color=0B0D0F&title_color=0AFFEF&text_color=C8CCD4&cache_seconds=86400" width="49%" alt="Top Languages"/>
+  *Abierto a nuevas oportunidades profesionales y colaboraciones interesantes.*
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=artur282&hide_border=true&background=0B0D0F&stroke=1E2028&ring=0AFFEF&fire=FF2E63&currStreakNum=0AFFEF&sideNums=0AFFEF&currStreakLabel=0AFFEF&sideLabels=C8CCD4&dates=4A5568" width="60%" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<!-- // CONTRIBUTION_GRAPH :: SNAKE_ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artur282/artur282/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artur282/artur282/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/artur282/artur282/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  // SECTION: NETWORK_INTERFACES                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│  > NETWORK_INTERFACES                                 [SYS.07]  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
-```
-$ ping artur282 --protocol all
-
-  [200] LinkedIn ████████████████████ CONNECTED
-  [200] Gmail    ████████████████████ CONNECTED
-  [200] GitHub   ████████████████████ CONNECTED
-```
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0D0F?style=for-the-badge&logo=linkedin&logoColor=0AFFEF)](https://www.linkedin.com/in/luis-c-47a498220)
-[![Gmail](https://img.shields.io/badge/Gmail-0B0D0F?style=for-the-badge&logo=gmail&logoColor=FF2E63)](mailto:luisarturocruz57@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0B0D0F?style=for-the-badge&logo=github&logoColor=C8CCD4)](https://github.com/artur282)
-
-<br/>
-
-```
-// Open to new professional opportunities and interesting collaborations.
-// Abierto a nuevas oportunidades profesionales y colaboraciones interesantes.
-```
-
-<br/>
-
-![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0B0D0F)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-c-47a498220 )
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisarturocruz57@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur282)
 
 </div>
 
