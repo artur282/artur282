@@ -16,8 +16,14 @@
   <!-- Badges informativos de estado -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=artur282&label=Profile+Views&color=6C63FF&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![GitHub followers](https://img.shields.io/github/followers/artur282?style=for-the-badge&logo=github&color=6C63FF&labelColor=1a1b27)](https://github.com/artur282?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/artur282?affiliations=OWNER&style=for-the-badge&logo=github&color=3B82F6&labelColor=1a1b27)](https://github.com/artur282?tab=repositories)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-c-47a498220)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisarturocruz57@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Repo-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur282/Portafolio)
 
   <br/>
 
@@ -30,6 +36,15 @@
 <!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
 ## 🧑‍💻 Sobre mí
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend_&_AI-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Experience-Python_Specialist-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Remote_Ready-10B981?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/github/last-commit/artur282/artur282?style=flat-square&color=6C63FF&label=Profile%20Updated"/>
+</div>
+
+<br/>
 
 > _Ingeniero de Software especializado en arquitectura backend robusta, integración de IA/ML, orquestación de datos y automatización inteligente._
 
@@ -69,24 +84,48 @@ Construyo **sistemas escalables y listos para producción** usando Python. Mi ex
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/python.png" width="40"/>
-      <br/><b>Ingeniería Backend</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Backend-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Backend"/>
+      <br/><br/><b>Ingeniería Backend</b>
       <br/><sub>Construcción de microservicios y APIs REST con Python, Django y FastAPI. Diseño de arquitecturas escalables con código limpio, mantenible y cobertura de tests.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white"/>
+      <br/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/>
-      <br/><b>IA/ML y GenAI</b>
+      <br/>
+      <img src="https://img.shields.io/badge/AI%2FML-6C63FF?style=for-the-badge&logo=openai&logoColor=white" alt="AI/ML"/>
+      <br/><br/><b>IA/ML y GenAI</b>
       <br/><sub>Integración de IA en flujos de trabajo reales usando servidores MCP, prompt engineering y herramientas de automatización. Exposición de capacidades ML/GenAI como servicios productivos.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MCP-6C63FF?style=flat-square&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <br/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/database-restore.png" width="40"/>
-      <br/><b>Ingeniería de Datos</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Data_Eng-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Data"/>
+      <br/><br/><b>Ingeniería de Datos</b>
       <br/><sub>Diseño y ejecución de pipelines ETL complejos para migración de datos entre sistemas legacy y ERPs modernos. SQL avanzado, validación y transformación a escala.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+      <br/>
     </td>
     <td align="center" width="25%">
-      <img src="https://img.icons8.com/color/48/automatic.png" width="40"/>
-      <br/><b>Automatización</b>
+      <br/>
+      <img src="https://img.shields.io/badge/Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="Automation"/>
+      <br/><br/><b>Automatización</b>
       <br/><sub>Desarrollo de scripts de automatización, soluciones de web scraping y orquestación de flujos con n8n. Transformando procesos manuales repetitivos en pipelines automatizados confiables.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+      <br/>
     </td>
   </tr>
 </table>
@@ -97,15 +136,17 @@ Construyo **sistemas escalables y listos para producción** usando Python. Mi ex
 
 ### [Portafolio de Ingeniería de Software](https://github.com/artur282/Portafolio)
 
-
-
 Construyendo un portafolio progresivo que demuestre dominio completo en **ingeniería backend, IA/GenAI, ingeniería de datos, DevOps e integración full-stack**. Cada proyecto es independiente, funcional y desplegable — diseñado para resolver problemas reales, no solo ejercicios académicos.
 
 <p>
-
   <img src="https://img.shields.io/badge/Proyectos-26-green?style=for-the-badge"/>
-
   <img src="https://img.shields.io/badge/Stack-Python_|_Rust_|_IA_|_Mobile_|_DevOps-purple?style=for-the-badge"/>
+  <br/><br/>
+  <img src="https://img.shields.io/github/last-commit/artur282/Portafolio?style=flat-square&color=6C63FF&label=Last%20Commit"/>
+  <img src="https://img.shields.io/github/stars/artur282/Portafolio?style=flat-square&color=3B82F6"/>
+  <img src="https://img.shields.io/github/forks/artur282/Portafolio?style=flat-square&color=10B981"/>
+  <img src="https://img.shields.io/github/issues/artur282/Portafolio?style=flat-square&color=EF4444"/>
+  <img src="https://img.shields.io/github/repo-size/artur282/Portafolio?style=flat-square&color=8B5CF6"/>
 </p>
 
 <br/>
@@ -190,6 +231,30 @@ Construyendo un portafolio progresivo que demuestre dominio completo en **ingeni
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS: Estadísticas visuales del perfil                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=artur282&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3B82F6&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur282&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=artur282&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=3B82F6&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=545D6A" alt="GitHub Streak" width="520"/>
+
+<br/><br/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=artur282&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=3B82F6&point=6C63FF&area_color=3B82F6&area=true" width="95%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- CONTACTO: CTAs claros para reclutadores                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -204,6 +269,20 @@ _Abierto a nuevas oportunidades profesionales y colaboraciones interesantes._
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-c-47a498220)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisarturocruz57@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur282)
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- SNAKE: Contribution graph animation                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artur282/artur282/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artur282/artur282/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/artur282/artur282/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
