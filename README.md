@@ -1,212 +1,473 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- HEADER: Terminal UI + Cyberpunk Aesthetic                           -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║  SYSTEM BOOT SEQUENCE // PROFILE_LOAD v4.2.0                       ║ -->
+<!-- ║  ACENTO: CYAN PROTOCOL #0AFFEF | ESTILO: HACKER UNDERGROUND        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D0F,50:0a3d3a,100:0AFFEF&height=220&section=header&text=&fontSize=1" width="100%"/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0B0D0F&height=120&section=header&text=_%3E%20LUIS_CRUZ&fontSize=50&fontColor=39FF14&fontAlignY=40&desc=%5B%20SYS.AUTH.GRANTED%20%7C%20ROLE:%20BACKEND_AI_ENGINEER%20%5D&descSize=16&descAlignY=65&descColor=C8CCD4&animation=twinkling" width="100%"/>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║     ██████╗ ██████╗ ████████╗██╗   ██╗██████╗ ██████╗  █████╗   ║
+║    ██╔══██╗██╔══██╗╚══██╔══╝██║   ██║██╔══██╗╚════██╗██╔══██╗  ║
+║    ███████║██████╔╝   ██║   ██║   ██║██████╔╝ █████╔╝╚█████╔╝  ║
+║    ██╔══██║██╔══██╗   ██║   ██║   ██║██╔══██╗██╔═══╝ ██╔══██╗  ║
+║    ██║  ██║██║  ██║   ██║   ╚██████╔╝██║  ██║███████╗╚█████╔╝  ║
+║    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚════╝   ║
+║                                                                  ║
+║  [ BACKEND ENGINEER // AI SPECIALIST // PYTHON HACKER ]          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 <br/>
 
-<!-- Typing SVG animado con rotación de roles clave, Cyberpunk Dark theme -->
+<!-- // TYPING_ANIMATION :: ROLE_ROTATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=45&lines=%3E_+Building+scalable+backends+with+Python;%3E_+AI%2FML+solutions+%7C+GenAI+integration;%3E_+Data+engineering+%26+complex+migrations;%3E_+Executing+automation+protocols..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=22&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=%24+python+build_backend.py+--scale+production+%F0%9F%90%8D;%24+deploy+ai_pipeline+--model+genai+--status+active+%F0%9F%A4%96;%24+migrate+--source+legacy+--target+modern+--validate+%F0%9F%97%84%EF%B8%8F;%24+automate+workflows+--engine+n8n+--impact+real+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Badges informativos de estado -->
-![Profile Views](https://komarev.com/ghpvc/?username=artur282&label=SYS.VIEWS&color=0B0D0F&labelColor=12151A&style=for-the-badge&logo=github&logoColor=39FF14)
-[![LinkedIn](https://img.shields.io/badge/LINK-LINKEDIN-0B0D0F?style=for-the-badge&labelColor=12151A&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/luis-c-47a498220)
-[![Email](https://img.shields.io/badge/EXEC-CONTACT_ME-0B0D0F?style=for-the-badge&labelColor=12151A&logo=gmail&logoColor=39FF14)](mailto:luisarturocruz57@gmail.com)
+<!-- // STATUS_BADGES :: SYS_INFO -->
+![](https://img.shields.io/badge/STATUS-ONLINE-0AFFEF?style=flat-square&labelColor=0B0D0F)
+![](https://img.shields.io/badge/LOCATION-REMOTE-0AFFEF?style=flat-square&labelColor=0B0D0F)
+![](https://img.shields.io/badge/STACK-PYTHON-0AFFEF?style=flat-square&labelColor=0B0D0F&logo=python&logoColor=0AFFEF)
+![Profile Views](https://komarev.com/ghpvc/?username=artur282&label=VIEWS&color=0AFFEF&style=flat-square&labelColor=0B0D0F)
 
 </div>
 
 <br/>
 
-<!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    [ USER_PROFILE_DATA ]                          ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  // SECTION: SYSTEM_PROFILE                                        -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## >_ ABOUT_ME
+<div align="center">
 
-> _< REF:0x4A > Software Engineer specialized in robust backend architecture, AI/ML integration, data orchestration, and intelligent automation._
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  > SYSTEM_PROFILE                                     [SYS.01]  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-Construyo **sistemas escalables y listos para producción** usando Python. Mi experiencia va desde diseñar arquitecturas backend complejas e implementar soluciones con IA, hasta liderar pipelines de migración de datos y automatizar flujos empresariales. Escribo código limpio, bien documentado y mantenible — porque el código de producción se lee mucho más de lo que se escribe.
+</div>
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# ═══════════════════════════════════════════════════════
+# PROFILE: Luis Cruz // @artur282
+# BUILD:   v4.2.0-stable
+# STATUS:  ACTIVE | SEEKING NEW CHALLENGES
+# ═══════════════════════════════════════════════════════
+
+class SoftwareEngineer:
+    """Backend & AI Engineer | Python Specialist"""
+
+    def __init__(self):
+        self.name       = "Luis Cruz"
+        self.alias      = "artur282"
+        self.role       = "Backend & AI Engineer"
+        self.language   = ["es_ES", "en_US"]
+
+    @property
+    def stack(self) -> dict:
+        return {
+            "backend":      ["Python", "Django", "FastAPI", "DRF", "Node.js"],
+            "ai_ml":        ["MCP Servers", "LangChain", "GenAI", "Prompt Eng."],
+            "data":         ["PostgreSQL", "SQL Server", "Pandas", "ETL Pipelines"],
+            "devops":       ["Docker", "Linux", "GitHub Actions", "AWS", "Bash"],
+            "automation":   ["n8n", "Selenium", "Web Scraping", "Custom Scripts"],
+            "frontend":     ["React", "React Native", "TypeScript", "TailwindCSS"],
+        }
+
+    @property
+    def principles(self) -> list:
+        return [
+            "Clean Code & SOLID — not just practices, a philosophy",
+            "Testing-first mindset with automated coverage",
+            "CI/CD & reproducible deployments",
+            "Well-documented APIs and systems",
+            "Solutions that SCALE in production",
+        ]
+
+    def daily(self) -> str:
+        return "Building scalable backends, integrating AI, automating everything"
+
+me = SoftwareEngineer()
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  // SECTION: CURRENT_OPERATIONS                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  > CURRENT_OPERATIONS                                 [SYS.02]  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
-### [ CURRENT_OPERATIONS ]
+```
+// ACTIVE_TASKS.log
+// Last updated: $(date +%Y-%m-%d)
+```
 
-- 🏗️ Diseñando **arquitecturas backend escalables** (`Django`, `FastAPI`)
-- 🤖 Construyendo soluciones con **GenAI, MCP Servers y LangChain**
-- 🔄 Automatizando flujos empresariales con **n8n y scripts Python**
-- 🗄️ Liderando **migraciones de datos complejas** y pipelines ETL
-- 📊 Análisis de datos y prototipado con **Pandas y Jupyter**
+![](https://img.shields.io/badge/►_Scalable_backend_architectures-Django_|_FastAPI-0AFFEF?style=flat-square&labelColor=12151A)
+
+![](https://img.shields.io/badge/►_GenAI_solutions-MCP_Servers_|_LangChain-0AFFEF?style=flat-square&labelColor=12151A)
+
+![](https://img.shields.io/badge/►_Business_automation-n8n_|_Python_Scripts-0AFFEF?style=flat-square&labelColor=12151A)
+
+![](https://img.shields.io/badge/►_Complex_data_migrations-ETL_Pipelines-0AFFEF?style=flat-square&labelColor=12151A)
+
+![](https://img.shields.io/badge/►_Data_analysis_&_prototyping-Pandas_|_Jupyter-0AFFEF?style=flat-square&labelColor=12151A)
 
 </td>
 <td width="50%" valign="top">
 
-### // ENGINEERING_PRINCIPLES
+```
+// ENGINEERING_PRINCIPLES.conf
+// Priority: CRITICAL
+```
 
-- 📐 **Clean Code y SOLID** — protocolos estrictos
-- 🧪 Mentalidad **orientada a testing** (cobertura automatizada)
-- 🔁 **CI/CD** y despliegues reproducibles
-- 📖 APIs y sistemas **bien documentados**
-- 🚀 Enfoque en **soluciones que escalan** en producción
+![](https://img.shields.io/badge/[01]_Clean_Code_&_SOLID-philosophy-FFB000?style=flat-square&labelColor=12151A)
+
+![](https://img.shields.io/badge/[02]_Testing--first_mindset-automated-39FF14?style=flat-square&labelColor=12151A)
+
+![](https://img.shields.io/badge/[03]_CI/CD_pipelines-reproducible-BF40FF?style=flat-square&labelColor=12151A)
+
+![](https://img.shields.io/badge/[04]_Well--documented_APIs-always-0AFFEF?style=flat-square&labelColor=12151A)
+
+![](https://img.shields.io/badge/[05]_Solutions_that_SCALE-production-FF2E63?style=flat-square&labelColor=12151A)
 
 </td>
-  </tr>
+</tr>
 </table>
 
 <br/>
 
-## >_ CORE_EXPERTISE_MODULES
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  // SECTION: CORE_MODULES                                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  > CORE_MODULES                                       [SYS.03]  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <table>
-  <tr>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.icons8.com/nolan/64/39FF14/0AFFEF/python.png" width="40"/>
-      <br/><b>[ BACKEND_ENG ]</b>
-      <br/><sub>Construcción de microservicios y APIs REST con Python, Django y FastAPI. Diseño de arquitecturas resueltas con código limpio.</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.icons8.com/nolan/64/39FF14/0AFFEF/artificial-intelligence.png" width="40"/>
-      <br/><b>[ AI_ML_GENAI ]</b>
-      <br/><sub>Integración de IA en flujos reales usando servidores MCP, prompt engineering y automatización. Explotación de capacidades ML/GenAI.</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.icons8.com/nolan/64/39FF14/0AFFEF/database-restore.png" width="40"/>
-      <br/><b>[ DATA_ENG ]</b>
-      <br/><sub>Pipelines ETL complejos para migración de datos. SQL avanzado, validación y transformación a escala.</sub>
-    </td>
-    <td align="center" width="25%" valign="top">
-      <img src="https://img.icons8.com/nolan/64/39FF14/0AFFEF/automatic.png" width="40"/>
-      <br/><b>[ AUTOMATION ]</b>
-      <br/><sub>Scripts, web scraping y flujos orquestados con n8n. Transformando procesos manuales en pipelines confiables.</sub>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/-BACKEND_ENGINE-0AFFEF?style=for-the-badge&labelColor=0B0D0F)
+
+```
+╔═══════════════╗
+║   ⚙️  [01]    ║
+║   BACKEND     ║
+║   ENGINE      ║
+╚═══════════════╝
+```
+
+<sub>Microservices & REST APIs with Python, Django and FastAPI. Scalable architectures with clean, maintainable code and test coverage.</sub>
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/-AI//ML_CORE-BF40FF?style=for-the-badge&labelColor=0B0D0F)
+
+```
+╔═══════════════╗
+║   🤖  [02]    ║
+║   AI / ML     ║
+║   CORE        ║
+╚═══════════════╝
+```
+
+<sub>AI integration in real workflows using MCP servers, prompt engineering and automation tools. ML/GenAI capabilities as production services.</sub>
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/-DATA_PIPELINE-FFB000?style=for-the-badge&labelColor=0B0D0F)
+
+```
+╔═══════════════╗
+║   🗄️  [03]    ║
+║   DATA        ║
+║   PIPELINE    ║
+╚═══════════════╝
+```
+
+<sub>Complex ETL pipelines for data migration between legacy systems and modern ERPs. Advanced SQL, validation and transformation at scale.</sub>
+
+</td>
+<td align="center" width="25%">
+
+![](https://img.shields.io/badge/-AUTOMATION-FF2E63?style=for-the-badge&labelColor=0B0D0F)
+
+```
+╔═══════════════╗
+║   ⚡  [04]    ║
+║   AUTO        ║
+║   MATION      ║
+╚═══════════════╝
+```
+
+<sub>Automation scripts, web scraping solutions and workflow orchestration with n8n. Transforming repetitive manual processes into reliable automated pipelines.</sub>
+
+</td>
+</tr>
 </table>
 
 <br/>
 
-## >_ OUTSTANDING_PROJECTS
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  // SECTION: FEATURED_PROJECT                                      -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-### [ Portafolio de Ingeniería de Software ](https://github.com/artur282/Portafolio)
+<div align="center">
 
-Construyendo un portafolio progresivo que demuestre dominio completo en **ingeniería backend, IA/GenAI, ingeniería de datos, DevOps e integración full-stack**. Cada proyecto es independiente, funcional y desplegable — diseñado para resolver problemas reales, no solo ejercicios académicos.
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  > FEATURED_PROJECT                                   [SYS.04]  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
-<p>
-  <img src="https://img.shields.io/badge/SYS.PROJECTS-26-0B0D0F?style=for-the-badge&labelColor=12151A&color=39FF14"/>
-  <img src="https://img.shields.io/badge/STACK-Python_|_Rust_|_IA_|_Mobile_|_DevOps-0B0D0F?style=for-the-badge&labelColor=12151A&color=39FF14"/>
+</div>
+
+<div align="center">
+
+### [`> cd ~/Portafolio && cat README.md`](https://github.com/artur282/Portafolio)
+
+</div>
+
+> ```
+> // PROJECT: Software Engineering Portfolio
+> // STATUS: IN_PROGRESS | BUILDING
+> // DESC:   Progressive portfolio demonstrating full mastery in
+> //         backend engineering, AI/GenAI, data engineering,
+> //         DevOps and full-stack integration.
+> //         Each project is independent, functional and deployable
+> //         — designed to solve real problems, not academic exercises.
+> ```
+
+<p align="center">
+
+![](https://img.shields.io/badge/PROJECTS-26-0AFFEF?style=for-the-badge&labelColor=0B0D0F)
+![](https://img.shields.io/badge/STACK-Python_|_Rust_|_AI_|_Mobile_|_DevOps-0AFFEF?style=for-the-badge&labelColor=0B0D0F)
+![](https://img.shields.io/badge/STATUS-ACTIVE-39FF14?style=for-the-badge&labelColor=0B0D0F)
+
 </p>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK: Organizado por dominio con badges terminales             -->
+<!--  // SECTION: TECH_STACK                                            -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## >_ TECH_STACK_MATRIX
-
-<!-- Backend principal -->
-<details open>
-<summary><b>[01] BACKEND_&_FRAMEWORKS</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-0B0D0F?style=for-the-badge&labelColor=12151A&logo=python&logoColor=39FF14)
-![Django](https://img.shields.io/badge/Django-0B0D0F?style=for-the-badge&labelColor=12151A&logo=django&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B0D0F?style=for-the-badge&labelColor=12151A&logo=fastapi&logoColor=39FF14)
-![Django REST](https://img.shields.io/badge/DRF-0B0D0F?style=for-the-badge&labelColor=12151A&logo=django&logoColor=39FF14)
-![Node.js](https://img.shields.io/badge/Node.js-0B0D0F?style=for-the-badge&labelColor=12151A&logo=nodedotjs&logoColor=39FF14)
-![Express](https://img.shields.io/badge/Express-0B0D0F?style=for-the-badge&labelColor=12151A&logo=express&logoColor=39FF14)
-![Rust](https://img.shields.io/badge/Rust-0B0D0F?style=for-the-badge&labelColor=12151A&logo=rust&logoColor=39FF14)
-
-</details>
-
-<!-- IA/ML & GenAI -->
-<details open>
-<summary><b>[02] AI_ML_&_GENAI</b></summary>
-<br/>
-
-![MCP](https://img.shields.io/badge/MCP-0B0D0F?style=for-the-badge&labelColor=12151A&logo=openai&logoColor=39FF14)
-![LangChain](https://img.shields.io/badge/LangChain-0B0D0F?style=for-the-badge&labelColor=12151A&logo=langchain&logoColor=39FF14)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Eng-0B0D0F?style=for-the-badge&labelColor=12151A&logo=openai&logoColor=39FF14)
-![Jupyter](https://img.shields.io/badge/Jupyter-0B0D0F?style=for-the-badge&labelColor=12151A&logo=jupyter&logoColor=39FF14)
-
-</details>
-
-<!-- Datos & Automatización -->
-<details open>
-<summary><b>[03] DATA_&_AUTOMATION</b></summary>
-<br/>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0D0F?style=for-the-badge&labelColor=12151A&logo=postgresql&logoColor=39FF14)
-![SQL](https://img.shields.io/badge/Advanced_SQL-0B0D0F?style=for-the-badge&labelColor=12151A&logo=microsoftsqlserver&logoColor=39FF14)
-![Pandas](https://img.shields.io/badge/Pandas-0B0D0F?style=for-the-badge&labelColor=12151A&logo=pandas&logoColor=39FF14)
-![n8n](https://img.shields.io/badge/n8n-0B0D0F?style=for-the-badge&labelColor=12151A&logo=n8n&logoColor=39FF14)
-![Selenium](https://img.shields.io/badge/Selenium-0B0D0F?style=for-the-badge&labelColor=12151A&logo=selenium&logoColor=39FF14)
-![SQLite](https://img.shields.io/badge/SQLite-0B0D0F?style=for-the-badge&labelColor=12151A&logo=sqlite&logoColor=39FF14)
-
-</details>
-
-<!-- DevOps & Cloud -->
-<details open>
-<summary><b>[04] DEVOPS_&_CLOUD</b></summary>
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-0B0D0F?style=for-the-badge&labelColor=12151A&logo=docker&logoColor=39FF14)
-![Linux](https://img.shields.io/badge/Linux-0B0D0F?style=for-the-badge&labelColor=12151A&logo=linux&logoColor=39FF14)
-![Git](https://img.shields.io/badge/Git-0B0D0F?style=for-the-badge&labelColor=12151A&logo=git&logoColor=39FF14)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-0B0D0F?style=for-the-badge&labelColor=12151A&logo=githubactions&logoColor=39FF14)
-![Bash](https://img.shields.io/badge/Bash-0B0D0F?style=for-the-badge&labelColor=12151A&logo=gnubash&logoColor=39FF14)
-![AWS](https://img.shields.io/badge/AWS-0B0D0F?style=for-the-badge&labelColor=12151A&logo=amazonwebservices&logoColor=39FF14)
-
-</details>
-
-<!-- Frontend (secundario) -->
-<details>
-<summary><b>[05] FRONTEND_UI</b></summary>
-<br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0D0F?style=for-the-badge&labelColor=12151A&logo=javascript&logoColor=39FF14)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0D0F?style=for-the-badge&labelColor=12151A&logo=typescript&logoColor=39FF14)
-![React](https://img.shields.io/badge/React-0B0D0F?style=for-the-badge&labelColor=12151A&logo=react&logoColor=39FF14)
-![React Native](https://img.shields.io/badge/React_Native-0B0D0F?style=for-the-badge&labelColor=12151A&logo=react&logoColor=39FF14)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0B0D0F?style=for-the-badge&labelColor=12151A&logo=tailwindcss&logoColor=39FF14)
-![HTML5](https://img.shields.io/badge/HTML5-0B0D0F?style=for-the-badge&labelColor=12151A&logo=html5&logoColor=39FF14)
-![CSS3](https://img.shields.io/badge/CSS3-0B0D0F?style=for-the-badge&labelColor=12151A&logo=css3&logoColor=39FF14)
-
-</details>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- CONTACTO: CTAs estilo terminal                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## >_ COMM_CHANNELS
 
 <div align="center">
 
-> _[ SYS.MSG ] Open to new professional protocols and interesting collaborations._
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/INIT_LINK-LINKEDIN-0B0D0F?style=for-the-badge&labelColor=12151A&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/luis-c-47a498220)
-[![Gmail](https://img.shields.io/badge/SEND_MAIL-GMAIL-0B0D0F?style=for-the-badge&labelColor=12151A&logo=gmail&logoColor=39FF14)](mailto:luisarturocruz57@gmail.com)
-[![GitHub](https://img.shields.io/badge/PULL_REQ-GITHUB-0B0D0F?style=for-the-badge&labelColor=12151A&logo=github&logoColor=39FF14)](https://github.com/artur282)
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  > TECH_STACK                                         [SYS.05]  │
+└──────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
+<!-- // MODULE: BACKEND -->
+<details open>
+<summary><code>root@artur282:~$ ls ./backend/</code></summary>
+<br/>
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-0B0D0F?style=for-the-badge&logo=python&logoColor=0AFFEF)
+![Django](https://img.shields.io/badge/Django-0B0D0F?style=for-the-badge&logo=django&logoColor=0AFFEF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B0D0F?style=for-the-badge&logo=fastapi&logoColor=0AFFEF)
+![DRF](https://img.shields.io/badge/DRF-0B0D0F?style=for-the-badge&logo=django&logoColor=FF2E63)
+![Node.js](https://img.shields.io/badge/Node.js-0B0D0F?style=for-the-badge&logo=nodedotjs&logoColor=39FF14)
+![Express](https://img.shields.io/badge/Express-0B0D0F?style=for-the-badge&logo=express&logoColor=C8CCD4)
+![Rust](https://img.shields.io/badge/Rust-0B0D0F?style=for-the-badge&logo=rust&logoColor=FFB000)
+
+</p>
+</details>
+
+<!-- // MODULE: AI_ML -->
+<details open>
+<summary><code>root@artur282:~$ ls ./ai_ml/</code></summary>
+<br/>
+<p align="center">
+
+![MCP](https://img.shields.io/badge/MCP_Protocol-0B0D0F?style=for-the-badge&logo=openai&logoColor=BF40FF)
+![LangChain](https://img.shields.io/badge/LangChain-0B0D0F?style=for-the-badge&logo=langchain&logoColor=0AFFEF)
+![Prompt Eng](https://img.shields.io/badge/Prompt_Eng-0B0D0F?style=for-the-badge&logo=openai&logoColor=FFB000)
+![Jupyter](https://img.shields.io/badge/Jupyter-0B0D0F?style=for-the-badge&logo=jupyter&logoColor=FF2E63)
+
+</p>
+</details>
+
+<!-- // MODULE: DATA_AUTOMATION -->
+<details open>
+<summary><code>root@artur282:~$ ls ./data_automation/</code></summary>
+<br/>
+<p align="center">
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B0D0F?style=for-the-badge&logo=postgresql&logoColor=0AFFEF)
+![SQL Server](https://img.shields.io/badge/SQL_Server-0B0D0F?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF2E63)
+![Pandas](https://img.shields.io/badge/Pandas-0B0D0F?style=for-the-badge&logo=pandas&logoColor=BF40FF)
+![n8n](https://img.shields.io/badge/n8n-0B0D0F?style=for-the-badge&logo=n8n&logoColor=FFB000)
+![Selenium](https://img.shields.io/badge/Selenium-0B0D0F?style=for-the-badge&logo=selenium&logoColor=39FF14)
+![SQLite](https://img.shields.io/badge/SQLite-0B0D0F?style=for-the-badge&logo=sqlite&logoColor=0AFFEF)
+
+</p>
+</details>
+
+<!-- // MODULE: DEVOPS -->
+<details open>
+<summary><code>root@artur282:~$ ls ./devops/</code></summary>
+<br/>
+<p align="center">
+
+![Docker](https://img.shields.io/badge/Docker-0B0D0F?style=for-the-badge&logo=docker&logoColor=0AFFEF)
+![Linux](https://img.shields.io/badge/Linux-0B0D0F?style=for-the-badge&logo=linux&logoColor=FFB000)
+![Git](https://img.shields.io/badge/Git-0B0D0F?style=for-the-badge&logo=git&logoColor=FF2E63)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-0B0D0F?style=for-the-badge&logo=githubactions&logoColor=0AFFEF)
+![Bash](https://img.shields.io/badge/Bash-0B0D0F?style=for-the-badge&logo=gnubash&logoColor=39FF14)
+![AWS](https://img.shields.io/badge/AWS-0B0D0F?style=for-the-badge&logo=amazonwebservices&logoColor=FFB000)
+
+</p>
+</details>
+
+<!-- // MODULE: FRONTEND -->
+<details>
+<summary><code>root@artur282:~$ ls ./frontend/</code></summary>
+<br/>
+<p align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0B0D0F?style=for-the-badge&logo=javascript&logoColor=FFB000)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B0D0F?style=for-the-badge&logo=typescript&logoColor=0AFFEF)
+![React](https://img.shields.io/badge/React-0B0D0F?style=for-the-badge&logo=react&logoColor=0AFFEF)
+![React Native](https://img.shields.io/badge/React_Native-0B0D0F?style=for-the-badge&logo=react&logoColor=BF40FF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0B0D0F?style=for-the-badge&logo=tailwindcss&logoColor=0AFFEF)
+![HTML5](https://img.shields.io/badge/HTML5-0B0D0F?style=for-the-badge&logo=html5&logoColor=FF2E63)
+![CSS3](https://img.shields.io/badge/CSS3-0B0D0F?style=for-the-badge&logo=css3&logoColor=0AFFEF)
+
+</p>
+</details>
+
+<br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER: EOF                                                         -->
+<!--  // SECTION: SYSTEM_METRICS                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  > SYSTEM_METRICS                                     [SYS.06]  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=artur282&show_icons=true&hide_border=true&bg_color=0B0D0F&title_color=0AFFEF&text_color=C8CCD4&icon_color=0AFFEF&ring_color=0AFFEF&cache_seconds=86400" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur282&layout=compact&hide_border=true&bg_color=0B0D0F&title_color=0AFFEF&text_color=C8CCD4&cache_seconds=86400" width="49%" alt="Top Languages"/>
 
 <br/><br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=16&duration=4000&pause=2000&color=39FF14&center=true&vCenter=true&multiline=false&width=400&height=30&lines=%5B%20SESSION_TERMINATED%20%5D;EOF" alt="EOF" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=artur282&hide_border=true&background=0B0D0F&stroke=1E2028&ring=0AFFEF&fire=FF2E63&currStreakNum=0AFFEF&sideNums=0AFFEF&currStreakLabel=0AFFEF&sideLabels=C8CCD4&dates=4A5568" width="60%" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- // CONTRIBUTION_GRAPH :: SNAKE_ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artur282/artur282/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artur282/artur282/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/artur282/artur282/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  // SECTION: NETWORK_INTERFACES                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│  > NETWORK_INTERFACES                                 [SYS.07]  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+```
+$ ping artur282 --protocol all
+
+  [200] LinkedIn ████████████████████ CONNECTED
+  [200] Gmail    ████████████████████ CONNECTED
+  [200] GitHub   ████████████████████ CONNECTED
+```
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0D0F?style=for-the-badge&logo=linkedin&logoColor=0AFFEF)](https://www.linkedin.com/in/luis-c-47a498220)
+[![Gmail](https://img.shields.io/badge/Gmail-0B0D0F?style=for-the-badge&logo=gmail&logoColor=FF2E63)](mailto:luisarturocruz57@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0B0D0F?style=for-the-badge&logo=github&logoColor=C8CCD4)](https://github.com/artur282)
+
+<br/>
+
+```
+// Open to new professional opportunities and interesting collaborations.
+// Abierto a nuevas oportunidades profesionales y colaboraciones interesantes.
+```
+
+<br/>
+
+![](https://img.shields.io/badge/STATUS-OPEN_TO_WORK-39FF14?style=for-the-badge&labelColor=0B0D0F)
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  // FOOTER: SYSTEM_SHUTDOWN_SEQUENCE                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+═══════════════════════════════════════════════════════════════════
+  // EOF — Thanks for visiting. Connection terminated gracefully.
+  // artur282@github:~$ exit
+═══════════════════════════════════════════════════════════════════
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0AFFEF,50:0a3d3a,100:0B0D0F&height=120&section=footer" width="100%"/>
