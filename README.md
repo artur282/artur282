@@ -238,17 +238,7 @@ Construyendo un portafolio progresivo que demuestre dominio completo en **ingeni
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=artur282&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=3B82F6&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artur282&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="170"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=artur282&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=3B82F6&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=545D6A" alt="GitHub Streak" width="520"/>
-
-<br/><br/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=artur282&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=3B82F6&point=6C63FF&area_color=3B82F6&area=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
