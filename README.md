@@ -141,12 +141,6 @@ Construyendo un portafolio progresivo que demuestre dominio completo en **ingeni
 <p>
   <img src="https://img.shields.io/badge/Proyectos-26-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Stack-Python_|_Rust_|_IA_|_Mobile_|_DevOps-purple?style=for-the-badge"/>
-  <br/><br/>
-  <img src="https://img.shields.io/github/last-commit/artur282/Portafolio?style=flat-square&color=6C63FF&label=Last%20Commit"/>
-  <img src="https://img.shields.io/github/stars/artur282/Portafolio?style=flat-square&color=3B82F6"/>
-  <img src="https://img.shields.io/github/forks/artur282/Portafolio?style=flat-square&color=10B981"/>
-  <img src="https://img.shields.io/github/issues/artur282/Portafolio?style=flat-square&color=EF4444"/>
-  <img src="https://img.shields.io/github/repo-size/artur282/Portafolio?style=flat-square&color=8B5CF6"/>
 </p>
 
 <br/>
