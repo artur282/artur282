@@ -48,7 +48,7 @@
 
 > _Ingeniero de Software especializado en arquitectura backend de producción, AI Engineering y sistemas distribuidos. Python + Rust._
 
-Construyo **sistemas escalables y listos para producción** usando Python (FastAPI) y Rust (Axum). Mi enfoque combina **backend senior** — Layered Architecture, TDD, Event-Driven, gRPC, multi-tenancy — con **AI Engineering** — RAG, agentes LangGraph, evaluación con RAGAS y guardrails de seguridad. Código limpio, bien testeado y documentado.
+Construyo **sistemas escalables y listos para producción** usando Python (FastAPI) y Rust (Axum). Mi enfoque combina **backend** — Layered Architecture, TDD, Event-Driven, gRPC, multi-tenancy — con **AI Engineering** — RAG, agentes LangGraph, evaluación con RAGAS y guardrails de seguridad. Código limpio, bien testeado y documentado.
 
 <table>
   <tr>
