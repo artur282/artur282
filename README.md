@@ -234,20 +234,6 @@ Roadmap unificado de **32 proyectos** que demuestra dominio completo en **backen
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS: Estadísticas visuales del perfil                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artur282&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=3B82F6&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=545D6A" alt="GitHub Streak" width="520"/>
-
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- CONTACTO: CTAs claros para reclutadores                           -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
