@@ -138,16 +138,17 @@ Construyo **sistemas escalables y listos para producción** usando Python (FastA
 
 ### [Portafolio Backend Senior + AI Engineer](https://github.com/artur282/Portafolio)
 
-Roadmap unificado de **32 proyectos** que demuestra dominio completo en **backend senior, AI engineering, data, DevOps y full-stack**. 26 proyectos backend (fines de semana) + 6 proyectos AI (mensuales). Cada proyecto es independiente, funcional y desplegable.
+Roadmap unificado de **6 meses** que demuestra dominio completo en sistemas B2B de producción, combinando **backend senior, AI engineering, data, DevOps y cloud**. Se estructura en **6 Macro-Sistemas consolidados** + **6 Proyectos AI**. Cada plataforma es funcional, robusta y utiliza un nivel estricto de ingeniería de arquitectura limpia.
 
 <p>
-  <img src="https://img.shields.io/badge/Proyectos-32-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-26_projects-3776AB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-6_projects-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack-Python_|_Rust_|_LLMs_|_RAG_|_gRPC-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Duración-6_Meses-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Proyectos-6_Sistemas_B2B-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Track-6_Proyectos-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Python_|_Rust_|_LLMs_|_React_|_DevOps-purple?style=for-the-badge"/>
 </p>
 
 <br/>
+
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK: Organizado por dominio con badges modernos             -->
