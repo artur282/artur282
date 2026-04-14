@@ -60,7 +60,6 @@ Construyo **sistemas escalables y listos para producción** usando Python (FastA
 - 🦀 **Rust** para microservicios ultraligeros (Axum) y clientes gRPC
 - 🤖 **AI Engineering**: RAG, agentes LangGraph, evaluación y guardrails
 - 🔍 **Elasticsearch** full-text search, facets y relevance tuning
-- 💳 **SaaS patterns**: multi-tenancy (RLS), billing (Stripe), webhooks
 - 📡 **gRPC + Protobuf** para comunicación polyglot Python ↔ Rust
 
 </td>
