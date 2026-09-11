@@ -4,8 +4,20 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  # Antes se disparaba en CUALQUIER push a main: dos pushes seguidos lanzaban
+  # dos ejecuciones que peleaban por la rama `output` y la segunda fallaba con
+  # "cannot lock ref 'refs/heads/output'". Ahora solo cuando cambia este fichero
+  # (o por cron/dispatch); el grafo se refresca a diario igualmente.
   push:
     branches: [main]
+    paths:
+      - .github/workflows/snake.yml
+
+# Red de seguridad: si dos ejecuciones coinciden (cron + push), se encolan en
+# lugar de colisionar.
+concurrency:
+  group: snake-output
+  cancel-in-progress: false
 
 permissions:
   contents: write
