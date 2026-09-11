@@ -7,6 +7,10 @@ name: Metrics
 # del workflow (funciona para datos públicos). Para desbloquear todos los
 # plugins (traffic, habits, stars) añade el PAT:
 #   gh secret set METRICS_TOKEN --repo artur282/artur282
+#
+# Formato: tarjeta ANCHA y BAJA a propósito. Sin isocalendar, sin lines y
+# sin followup: esas tres secciones triplicaban la altura, y como el README
+# la estiraba al 100% del ancho, acababa ocupando media pantalla.
 
 on:
   schedule:
@@ -41,24 +45,20 @@ jobs:
           template: classic
           config_timezone: America/Caracas
 
-          # Base: cabecera, actividad, comunidad, repositorios y metadata
-          base: header, activity, community, repositories, metadata
+          # Columnas = tarjeta más ancha y menos alta. El padding por
+          # defecto (11%) se mantiene; solo se recorta el aire vertical.
+          config_display: columns
+          config_padding: 0, 8 + 11%
 
-          # Calendario de contribuciones (mitad de año)
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          # Fuera "repositories": sus repos tienen pocas estrellas y el
+          # bloque ocupaba media tarjeta. La actividad y los lenguajes sí
+          # dicen algo.
+          base: header, activity, community, metadata
 
-          # Lenguajes por bytes y porcentaje
+          # Lenguajes: solo el porcentaje, sin bytes (dos columnas de
+          # texto hacen el bloque más alto).
           plugin_languages: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 6
           plugin_languages_sections: most-used
-
-          # Líneas de código en el tiempo
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_history_limit: 1
-
-          # Issues y PRs abiertos frente a cerrados
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_languages_details: percentage
+          plugin_languages_limit: 5
+          plugin_languages_ignored: html, css, scss, dockerfile, shell, makefile, batchfile, jupyter notebook
