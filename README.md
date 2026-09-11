@@ -5,7 +5,7 @@
 <!-- Todos los logos verificados contra la lista oficial de Simple Icons -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=Luis%20Cruz&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20%26%20AI%20Engineer%20%7C%20Python%20%2B%20Rust&descSize=18&descAlignY=55&descColor=E2E8F0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=Luis%20Cruz&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20%26amp%3B%20AI%20Engineer%20%7C%20Python%20%2B%20Rust&descSize=18&descAlignY=55&descColor=E2E8F0&animation=fadeIn" width="100%" alt="Luis Cruz — Backend & AI Engineer"/>
 
 <div align="center">
 
@@ -92,10 +92,6 @@ Ambos están **en construcción** — el código se publica de forma incremental
 
 También he trabajado con gRPC, Kafka, Elasticsearch, RabbitMQ y CI/CD en entornos de producción.
 
-## 📊 Métricas
-
-<img src="https://raw.githubusercontent.com/artur282/artur282/main/github-metrics.svg" alt="Métricas de GitHub" width="100%"/>
-
 ## 🧭 Cómo trabajo
 
 - **Diseño antes de codificar** — esquema, contratos y trade-offs escritos antes de la primera línea.
@@ -145,4 +141,12 @@ Abierto a oportunidades de **backend / backend-AI** en España desde **febrero d
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=100&section=footer" width="100%"/>
+<br/>
+
+## 📊 Métricas
+
+Tarjeta ancha y baja: cabecera, actividad, comunidad y lenguajes. Se regenera a diario dentro de este mismo repo con `lowlighter/metrics` (sin depender de servicios de terceros).
+
+<img src="https://raw.githubusercontent.com/artur282/artur282/main/github-metrics.svg" alt="Métricas de GitHub de artur282" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=100&section=footer" width="100%" alt=""/>
