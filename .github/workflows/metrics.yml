@@ -1,17 +1,35 @@
 name: Metrics
 
-# Genera github-metrics.svg dentro del propio repo y lo sirve GitHub desde
-# raw.githubusercontent.com — sin servicios de terceros que se caigan.
+# Tarjeta de estadísticas generada dentro del propio repo y servida por GitHub
+# desde raw.githubusercontent.com — sin depender de servicios de terceros.
 #
-# Tarjeta ANCHA y BAJA a propósito (config_display: columns):
-#   ...
-# Probar antes de preguntar por un PAT: indepth clona repos PÚBLICOS.
+# ── Por qué la tarjeta es ANCHA y BAJA (config_display: columns) ──────────
+# Con la plantilla clásica por defecto medía 480 x 773 px; el README la
+# estiraba a 100% del ancho y acababa ocupando ~1.340 px de alto. En modo
+# `columns` el SVG reflowea al ancho del contenedor (830 px) y baja a ~215 px.
+# Fuera isocalendar, lines y followup: eran las tres secciones que más alto
+# añadían y las que menos dicen de un perfil backend.
+#
+# ── Por qué los lenguajes están condicionados al secreto ─────────────────
+# El GITHUB_TOKEN por defecto solo alcanza ESTE repositorio, así que el plugin
+# de lenguajes (que lee los 24 repos) devolvía "0 Languages" y dejaba un bloque
+# vacío en la tarjeta. Ni siquiera el modo indepth lo resuelve. Con un PAT
+# (`METRICS_TOKEN`) el plugin funciona; mientras no exista, se desactiva solo
+# en vez de pintar un cero:
+#
+#   gh secret set METRICS_TOKEN --repo artur282/artur282 --body "$(gh auth token)"
+#
+# En cuanto ese secreto exista, los lenguajes se encienden sin tocar nada más.
+
 on:
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
   push:
     branches: [main]
+    paths:
+      - .github/workflows/metrics.yml
+      - README.md
 
 concurrency:
   group: metrics-main
@@ -32,10 +50,16 @@ jobs:
           user: artur282
           template: classic
           config_timezone: America/Caracas
+
+          # Ancha y baja: menos alto a igualdad de información
           config_display: columns
           config_padding: 0, 8 + 11%
+
+          # Solo lo que suma: identidad + actividad real
           base: header, activity
-          plugin_languages: yes
+
+          # Se activa únicamente si existe METRICS_TOKEN (ver nota arriba)
+          plugin_languages: ${{ secrets.METRICS_TOKEN != '' && 'yes' || 'no' }}
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 120
           plugin_languages_sections: most-used
