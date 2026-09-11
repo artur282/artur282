@@ -19,6 +19,12 @@ on:
       - .github/workflows/metrics.yml
       - README.md
 
+# Serializa las ejecuciones: dos runs solapados commiteando github-metrics.svg
+# chocaban con "cannot lock ref". Con esto se encolan en vez de fallar.
+concurrency:
+  group: metrics-main
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
