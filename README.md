@@ -137,13 +137,15 @@ Construyo **sistemas escalables y listos para producción** usando Python (FastA
 
 ### [Portafolio Backend Senior](https://github.com/artur282/Portafolio)
 
-Roadmap de **6 meses** que demuestra dominio completo en sistemas B2B de producción. Se estructura en **6 Sistemas consolidados** . Cada plataforma es funcional, robusta y utiliza un nivel estricto de ingeniería de arquitectura limpia.
+Dos sistemas de producción en construcción bajo un mismo estándar de ingeniería: arquitectura limpia, TDD, CI/CD y `docker compose up` como único requisito para levantar todo (backend Python + Rust, base de datos, mensajería, observabilidad y frontend).
+
+- **💳 LedgerCore** — plataforma de pagos: ledger de doble entrada, API idempotente, motor de riesgo en Rust (<5ms p99), outbox transaccional + Kafka y dashboard bancario.
+- **📈 TickForge** — market data & paper trading: ingestor Binance WS en Rust/Tokio, order book L2 en memoria, matching event-sourced, TimescaleDB y trading desk en tiempo real.
 
 <p>
-  <img src="https://img.shields.io/badge/Duración-6_Meses-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Proyectos-6_Sistemas_B2B-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Track-6_Proyectos-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Stack-Python_|_Rust_|_LLMs_|_React_|_DevOps-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Proyectos-2_Sistemas_de_Producción-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-Python_|_Rust_|_Kafka_|_gRPC_|_React-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Demo-docker_compose_up-blue?style=for-the-badge"/>
 </p>
 
 <br/>
