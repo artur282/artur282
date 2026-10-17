@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- Perfil de GitHub — Luis Cruz (@artur282)                          -->
-<!-- Reescrito 2026-09-11: 600 palabras, sin proyectos inexistentes,   -->
-<!-- sin móvil, con NexusBoard/Cortex y métricas servidas localmente.  -->
+<!-- Actualizado 2026-10-17: nueva generación de proyectos             -->
+<!-- (Caliber + Continuum) tras revisión de encaje con el mercado.     -->
 <!-- Todos los logos verificados contra la lista oficial de Simple Icons -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -10,7 +10,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Backend+Engineer+%7C+FastAPI+%2B+Rust+Axum;AI+Engineering+%7C+RAG+%2B+agentes;PostgreSQL+%7C+multi-tenant+%7C+Docker;Espa%C3%B1a+%7C+febrero+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Backend+Engineer+%7C+FastAPI+%2B+Rust+Axum;Durable+execution+%7C+RAG+evaluation;PostgreSQL+%7C+multi-tenant+%7C+Docker;Espa%C3%B1a+%7C+febrero+2027" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -40,9 +40,9 @@ Me interesa la parte difícil: aislamiento multi-tenant, consistencia de datos, 
 
 Dos sistemas backend que construyo desde cero y despliego con `docker compose up`. Ambos arrancan con datos precargados, así que se pueden probar en un minuto. El roadmap, las decisiones y los estándares viven en el hub **[Portafolio](https://github.com/artur282/Portafolio)**.
 
-**[NexusBoard](https://github.com/artur282/Portafolio)** — base de conocimiento colaborativa con IA. Multi-tenancy con **Row-Level Security de PostgreSQL**, búsqueda híbrida (full-text + semántica con pgvector) fusionada con Reciprocal Rank Fusion, asistente RAG con streaming y evaluación publicada, edición en tiempo real por WebSocket y un **CLI en Rust** (`nexusctl`) para que los agentes de IA consulten y alimenten la base vía API keys con scopes.
+**[Caliber](https://github.com/artur282/Portafolio)** — laboratorio de calidad para búsqueda y RAG, en **Python**. Cargás un corpus y un set de preguntas de oro, corrés experimentos comparables (texto vs vectorial vs híbrido, chunking, embeddings) y publicás métricas reproducibles: **recall@k, MRR, nDCG**. Todo se ve en una consola de evidencia con visita guiada de 60 segundos. Es la diferencia entre construir un RAG y saber si funciona.
 
-**[Cortex](https://github.com/artur282/Portafolio)** — orquestador de agentes de IA escrito en **Rust**. El núcleo es un **message bus propio** (no un broker existente) con backpressure y entrega garantizada, más ejecución de pipelines, tracing distribuido y métricas en vivo. Incluye **benchmarks publicados con Criterion frente a un baseline equivalente en Python**, que es justo lo que se pide en las ofertas de backend de Suiza y Alemania.
+**[Continuum](https://github.com/artur282/Portafolio)** — motor de ejecución durable escrito en **Rust**. Workflows declarativos que sobreviven caídas: journal event-sourced, reintentos, timers, señales y **efectos exactly-once verificados con tests de crash-injection en CI**. Incluye **benchmarks publicados** (workflows/s, p99 de scheduling, tiempo de recuperación) y un **botón CAOS** que mata un worker en vivo y demuestra la recuperación sin duplicar efectos.
 
 Ambos están **en construcción** — el código se publica de forma incremental, tarea a tarea, con CI verde desde el primer commit. Prefiero decirlo a enseñar un repo vacío.
 
@@ -97,12 +97,12 @@ También he trabajado con gRPC, Kafka, Elasticsearch, RabbitMQ y CI/CD en entorn
 - **Diseño antes de codificar** — esquema, contratos y trade-offs escritos antes de la primera línea.
 - **TDD donde duele** — propiedad e integración (Testcontainers) en lo crítico, no por cumplir un porcentaje.
 - **CI desde el primer commit** — lint, tests y build en cada push. Sin badge verde, no hay merge.
-- **Métricas o no existe** — p95, throughput, recall@k, cobertura. Números medidos, no adjetivos.
+- **Métricas o no existe** — p95, throughput, recall@k, tiempo de recuperación, cobertura. Números medidos, no adjetivos.
 - **Documentación en español** — cada épica deja su explicación: qué se construyó, por qué así y cómo verificarlo.
 
 ## 📖 Escribo sobre lo que construyo
 
-Un post técnico por proyecto, en dev.to, cuando cada sistema cierre su última épica. No son tutoriales de "hola mundo": son el relato de las decisiones que costaron algo — por qué Row-Level Security en lugar de filtrar en la aplicación, dónde se rompió el bus de mensajes al medirlo, y qué números salieron al final.
+Un post técnico por proyecto, en dev.to, cuando cada sistema cierre su última épica. No son tutoriales de "hola mundo": son el relato de las decisiones que costaron algo — por qué un journal event-sourced en lugar de snapshots en memoria, cómo se verifica exactly-once con crash-injection, y qué recall gana entre texto, vectorial e híbrido al medirlo.
 
 ## 🔍 Cómo revisar mi trabajo
 
@@ -117,13 +117,13 @@ Y una sección de **limitaciones** en cada README. Un proyecto que no declara lo
 
 ## 🧠 Ahora mismo
 
-- Afianzando **Rust asíncrono** (Tokio, Axum, backpressure y entrega de mensajes) — es el diferenciador del mercado suizo y alemán.
+- Afianzando **Rust de sistemas** (Tokio, durabilidad, concurrencia, backpressure) — es el diferenciador del mercado suizo y alemán.
 - **Alemán** en progreso, de cara al mercado DACH.
 - Construyendo este portafolio **con agentes de IA** bajo mi dirección, y documentando cada épica en español para poder defender el diseño en una entrevista. La regla que me puse: si no lo entiendo, no se commitea.
 
 ## 📬 ¿Hablamos?
 
-Abierto a oportunidades de **backend / backend-AI**  en remoto. Español nativo, inglés profesional, alemán en progreso.
+Abierto a oportunidades de **backend / backend-AI** en España desde **febrero de 2027**, y en remoto para la UE. Español nativo, inglés profesional, alemán en progreso.
 
 <div align="center">
 
