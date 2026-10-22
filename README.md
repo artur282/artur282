@@ -115,11 +115,6 @@ Cada proyecto sigue el mismo contrato, para que puedas evaluarlo en minutos sin 
 
 Y una sección de **limitaciones** en cada README. Un proyecto que no declara lo que no hace suele esconder algo.
 
-## 🧠 Ahora mismo
-
-- Afianzando **Rust de sistemas** (Tokio, durabilidad, concurrencia, backpressure) — es el diferenciador del mercado suizo y alemán.
-- **Alemán** en progreso, de cara al mercado DACH.
-- Construyendo este portafolio **con agentes de IA** bajo mi dirección, y documentando cada épica en español para poder defender el diseño en una entrevista. La regla que me puse: si no lo entiendo, no se commitea.
 
 ## 📬 ¿Hablamos?
 
