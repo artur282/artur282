@@ -118,7 +118,7 @@ Y una sección de **limitaciones** en cada README. Un proyecto que no declara lo
 
 ## 📬 ¿Hablamos?
 
-Abierto a oportunidades de **backend / backend-AI** en España desde **febrero de 2027**, y en remoto para la UE. Español nativo, inglés profesional, alemán en progreso.
+Abierto a oportunidades de **backend / backend-AI** en remoto para la UE. Español nativo, inglés profesional, alemán en progreso.
 
 <div align="center">
 
