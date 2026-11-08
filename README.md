@@ -1,147 +1,63 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- Perfil de GitHub — Luis Cruz (@artur282)                          -->
-<!-- Actualizado 2026-10-17: nueva generación de proyectos             -->
-<!-- (Caliber + Continuum) tras revisión de encaje con el mercado.     -->
-<!-- Todos los logos verificados contra la lista oficial de Simple Icons -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=Luis%20Cruz&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20%26amp%3B%20AI%20Engineer%20%7C%20Python%20%2B%20Rust&descSize=18&descAlignY=55&descColor=E2E8F0&animation=fadeIn" width="100%" alt="Luis Cruz — Backend & AI Engineer"/>
+<!-- Perfil de GitHub — Luis Cruz (@artur282) -->
+<!-- Actualizado 2026-11: dos planes publicados, sin claims de código ni métricas que no existan. -->
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Backend+Engineer+%7C+FastAPI+%2B+Rust+Axum;Durable+execution+%7C+RAG+evaluation;PostgreSQL+%7C+multi-tenant+%7C+Docker;Espa%C3%B1a+%7C+febrero+2027" alt="Typing SVG" />
-</a>
+# Luis Cruz
 
-<br/><br/>
+**Backend & AI Engineer** · Python (FastAPI, PostgreSQL) + Rust
 
-![Profile Views](https://komarev.com/ghpvc/?username=artur282&label=Profile+Views&color=6C63FF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/artur282?style=for-the-badge&logo=github&color=6C63FF&labelColor=1a1b27)](https://github.com/artur282?tab=followers)
+Valencia, España · desde febrero 2027
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luis-c-47a498220)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisarturocruz57@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Roadmap_2026-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur282/Portafolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-c-47a498220)
+[![Email](https://img.shields.io/badge/Email-Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisarturocruz57@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Ver_el_hub-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur282/Portafolio)
 
 </div>
 
-<br/>
+## Sobre mí
 
-## 🧑‍💻 Sobre mí
+Ingeniero backend. Construyo APIs y sistemas de datos con **Python** (FastAPI, SQLAlchemy, PostgreSQL) y herramientas de sistemas con **Rust** (Tokio, Axum).
 
-Ingeniero backend. Construyo APIs y sistemas de datos con **Python** (FastAPI, SQLAlchemy, PostgreSQL) y servicios de bajo nivel con **Rust** (Axum, Tokio).
-
-Me interesa la parte difícil: aislamiento multi-tenant, consistencia de datos, rendimiento medido y código que otra persona pueda leer sin preguntarme nada. Trabajo con **documentación antes que con prisa** — cada proyecto que publico incluye sus decisiones escritas, sus números reales y una sección honesta de limitaciones.
+Me interesa la parte difícil: aislamiento de datos, consistencia, rendimiento medido y código que otra persona pueda leer sin preguntarme nada. Diseño antes de codificar, CI desde el primer commit y métricas antes que adjetivos.
 
 > Si no está medido, no está terminado.
 
-## 🚧 En qué estoy trabajando
+## Dos proyectos, planificados para mostrarse en 60 segundos
 
-Dos sistemas backend que construyo desde cero y despliego con `docker compose up`. Ambos arrancan con datos precargados, así que se pueden probar en un minuto. El roadmap, las decisiones y los estándares viven en el hub **[Portafolio](https://github.com/artur282/Portafolio)**.
+Elegí estos dos por el mercado: **Python + RAG** es el mejor encaje en España; **Rust + sistemas** abre Suiza y Alemania. Los dos están en **etapa de plan**: el README, la arquitectura, el guion de demo, las métricas y la wiki están publicados. El código se construirá por fases; no hay métricas publicadas todavía.
 
-**[Caliber](https://github.com/artur282/Portafolio)** — laboratorio de calidad para búsqueda y RAG, en **Python**. Cargás un corpus y un set de preguntas de oro, corrés experimentos comparables (texto vs vectorial vs híbrido, chunking, embeddings) y publicás métricas reproducibles: **recall@k, MRR, nDCG**. Todo se ve en una consola de evidencia con visita guiada de 60 segundos. Es la diferencia entre construir un RAG y saber si funciona.
+### [Caliber](https://github.com/artur282/Caliber) · [wiki](https://github.com/artur282/Caliber/wiki) — laboratorio de calidad para búsqueda y RAG
 
-**[Continuum](https://github.com/artur282/Portafolio)** — motor de ejecución durable escrito en **Rust**. Workflows declarativos que sobreviven caídas: journal event-sourced, reintentos, timers, señales y **efectos exactly-once verificados con tests de crash-injection en CI**. Incluye **benchmarks publicados** (workflows/s, p99 de scheduling, tiempo de recuperación) y un **botón CAOS** que mata un worker en vivo y demuestra la recuperación sin duplicar efectos.
+El plan define un corpus, preguntas de oro y tres estrategias de recuperación (texto, vectorial e híbrida) con **recall@5, recall@10, MRR y nDCG@10** en una consola de una página. La demo de 60 segundos ejecutará tres configuraciones y mostrará la tabla.
 
-Ambos están **en construcción** — el código se publica de forma incremental, tarea a tarea, con CI verde desde el primer commit. Prefiero decirlo a enseñar un repo vacío.
+`Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `pgvector` · `Docker` · `GitHub Actions`
 
-## 🛠️ Stack
+### [Continuum](https://github.com/artur282/Continuum) · [wiki](https://github.com/artur282/Continuum/wiki) — motor de ejecución durable en Rust
 
-<details open>
-<summary><b>⚙️ Backend & datos</b></summary>
-<br/>
+El plan define un workflow de checkout con journal event-sourced, reintentos, timers, señales y **efectos exactly-once** verificados con tests de crash-injection. La demo de 60 segundos matará un worker a mitad del checkout y mostrará la recuperación con **un solo cobro** en el ledger.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
+`Rust` · `Tokio` · `Axum` · `SQLx` · `PostgreSQL` · `Docker` · `GitHub Actions`
 
-</details>
+## Cómo revisar los planes
 
-<details open>
-<summary><b>🤖 IA & frontend</b></summary>
-<br/>
+1. **README del proyecto** — el problema, la demo de 60 segundos, el alcance y los non-goals.
+2. **`docs/PLAN.md`** — fases, tareas y criterios de aceptación.
+3. **`docs/ARCHITECTURE.md`** — componentes, modelo de datos y modos de fallo.
+4. **`docs/DECISIONS.md`** — las decisiones que se convertirán en ADRs.
+5. **Wiki** — el mismo material en formato navegable.
+6. **Limitaciones** — cada plan declara lo que el proyecto no hará.
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## Stack
 
-</details>
+**Backend y datos:** Python · FastAPI · SQLAlchemy · Pydantic · PostgreSQL · pgvector · Redis · SQLite · Supabase
+**Sistemas:** Rust · Tokio · Axum · SQLx · Linux · Bash
+**IA:** RAG · LangChain · LLM integration · MCP
+**Infra:** Docker · Docker Compose · GitHub Actions · Git
+**Frontend:** React · React Native · TypeScript · Next.js · Tailwind CSS
 
-<details open>
-<summary><b>☁️ DevOps</b></summary>
-<br/>
+## Contacto
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-</details>
-
-<br/>
-
-También he trabajado con gRPC, Kafka, Elasticsearch, RabbitMQ y CI/CD en entornos de producción.
-
-## 🧭 Cómo trabajo
-
-- **Diseño antes de codificar** — esquema, contratos y trade-offs escritos antes de la primera línea.
-- **TDD donde duele** — propiedad e integración (Testcontainers) en lo crítico, no por cumplir un porcentaje.
-- **CI desde el primer commit** — lint, tests y build en cada push. Sin badge verde, no hay merge.
-- **Métricas o no existe** — p95, throughput, recall@k, tiempo de recuperación, cobertura. Números medidos, no adjetivos.
-- **Documentación en español** — cada épica deja su explicación: qué se construyó, por qué así y cómo verificarlo.
-
-## 📖 Escribo sobre lo que construyo
-
-Un post técnico por proyecto, en dev.to, cuando cada sistema cierre su última épica. No son tutoriales de "hola mundo": son el relato de las decisiones que costaron algo — por qué un journal event-sourced en lugar de snapshots en memoria, cómo se verifica exactly-once con crash-injection, y qué recall gana entre texto, vectorial e híbrido al medirlo.
-
-## 🔍 Cómo revisar mi trabajo
-
-Cada proyecto sigue el mismo contrato, para que puedas evaluarlo en minutos sin instalar nada más que Docker:
-
-1. **`docker compose up`** — arranca con datos de demo ya cargados. Nunca una pantalla vacía.
-2. **Ruta de revisión en el README** — qué archivo leer primero y dónde está la decisión difícil, en lugar de dejarte adivinar entre 200 ficheros.
-3. **`make test`** — la suite completa con sus números de cobertura, y el CI verde enlazado.
-4. **`docs/decisions/`** — los ADRs: contexto, decisión, alternativas descartadas y consecuencias.
-
-Y una sección de **limitaciones** en cada README. Un proyecto que no declara lo que no hace suele esconder algo.
-
-
-## 📬 ¿Hablamos?
-
-Abierto a oportunidades de **backend / backend-AI** en remoto para la UE. Español nativo, inglés profesional, alemán en progreso.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/luis-c-47a498220)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisarturocruz57@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artur282)
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artur282/artur282/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/artur282/artur282/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/artur282/artur282/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<br/>
-
-## 📊 Métricas
-
-Tarjeta ancha y baja: cabecera, actividad, comunidad y lenguajes. Se regenera a diario dentro de este mismo repo con `lowlighter/metrics` (sin depender de servicios de terceros).
-
-<img src="https://raw.githubusercontent.com/artur282/artur282/main/github-metrics.svg" alt="Métricas de GitHub de artur282" width="100%"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=100&section=footer" width="100%" alt=""/>
+- Email: [luisarturocruz57@gmail.com](mailto:luisarturocruz57@gmail.com)
+- LinkedIn: [linkedin.com/in/luis-c-47a498220](https://www.linkedin.com/in/luis-c-47a498220)
+- Hub del portafolio: [github.com/artur282/Portafolio](https://github.com/artur282/Portafolio)
